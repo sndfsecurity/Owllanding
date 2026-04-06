@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://puneowlsecurity.in/sitemap.xml
-
+Sitemap: https://sndfpunesecurity.in/sitemap.xml
